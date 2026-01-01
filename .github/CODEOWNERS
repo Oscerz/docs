@@ -1,0 +1,3 @@
+# Protect LICENSE file from unauthorized changes
+# Changes to the LICENSE file require repository owner approval
+/LICENSE @Oscerz
